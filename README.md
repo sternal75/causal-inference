@@ -1,4 +1,5 @@
 # causal-inference
+To run the code, run "calc.m"
 In this work I analyzed the causal effect of modifiable risk factors, including hypertension, smoking status, marriage status, work type, residence type, glucose levels, and BMI on the two leading causes of death worldwide: heart disease, and stroke.
 
 The data set is used to infer causal relationship of modifiable risk factors on the outcome of heart disease and stroke. The dataset 	contains 5110 observations with 11 attributes:
